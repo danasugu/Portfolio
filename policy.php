@@ -1,0 +1,1 @@
+<a href="<?php site_url()?>politica_de_confidentialitate.php>Policy</a><br><br><br><br><br>
